@@ -1,0 +1,28 @@
+{
+  "name": "karma-redirect-preprocessor",
+  "description": "A Karma plugin.  Serve files to a custom location (for use in AJAX)",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "./test/run_all.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sjelin/karma-redirect-preprocessor.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor"
+  ],
+  "author": "Sammy Jelin <sjelin@gmail.com>",
+  "dependencies": {
+    "glob": "^5.0.14",
+    "minimatch": "^2.0.10"
+  },
+  "devDependencies": {
+    "karma": "^0.13.8",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6",
+    "minijasminenode": "^1.1.1"
+  },
+  "license": "MIT"
+}
