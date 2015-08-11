@@ -1,5 +1,6 @@
 {
   "name": "karma-redirect-preprocessor",
+  "version": "0.1.0",
   "description": "A Karma plugin.  Serve files to a custom location (for use in AJAX)",
   "main": "lib/index.js",
   "scripts": {
