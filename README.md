@@ -34,6 +34,8 @@ You can simple do it by:
 npm install karma-redirect-preprocessor --save-dev
 ```
 
+Compatible with karma 0.13 and above
+
 ## Configuration
 ```js
 // karma.conf.js
